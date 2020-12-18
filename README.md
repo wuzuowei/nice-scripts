@@ -1,2 +1,6 @@
 # nice-scripts
 主要收集一些自己觉得好用的脚本
+
+
+## weblogic
+- https://github.com/NS-Sp4ce/CVE-2020-14882/blob/main/14882.py
