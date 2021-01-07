@@ -19,3 +19,8 @@
 ### redis未授权访问
 - https://github.com/n0b0dyCN/redis-rogue-server
 - https://github.com/vulhub/redis-rogue-getshell（前者修改版）
+
+
+## 尝试找出cdn背后的真实ip
+
+- https://github.com/3xp10it/xcdn
